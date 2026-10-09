@@ -38,8 +38,10 @@ Extra features:
 
 | Check | Scam Drill | Family Radar |
 |---|---|---|
-| ![Check](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-18-52" src="https://github.com/user-attachments/assets/abc90fa1-4af3-4f69-afe6-5dd7246ee6f3" />
-) | ![Drill](screenshots/drill.png) | ![Radar](screenshots/radar.png) |
+| ![Check](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-18-52" src="https://github.com/user-attachments/assets/baf9862c-3ce4-476d-9d46-37f101e731b2" />
+) | ![Drill](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-29-47" src="https://github.com/user-attachments/assets/eaaa6ed9-049d-4782-aef2-0648cdb65e43" />
+) | ![Radar](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-30-11" src="https://github.com/user-attachments/assets/9c7f2dc7-bbc7-4a41-9ee5-db13eb5bc887" />
+) |
 
 ## How it works
 

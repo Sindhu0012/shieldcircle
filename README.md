@@ -34,14 +34,22 @@ Extra features:
 - **Scam Drill**: a training game where the AI writes fresh scam and safe messages. Each family member builds a **Scam IQ** score.
 - **Family Radar**: which tactics are hitting the family, a memory timeline, and an alert when someone keeps being targeted ("time for a family conversation").
 
-## Screenshots
+## 📸 Screenshots
 
-| Check | Scam Drill | Family Radar |
-|---|---|---|
-| ![Check](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-18-52" src="https://github.com/user-attachments/assets/baf9862c-3ce4-476d-9d46-37f101e731b2" />
-) | ![Drill](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-29-47" src="https://github.com/user-attachments/assets/eaaa6ed9-049d-4782-aef2-0648cdb65e43" />
-) | ![Radar](<img width="1363" height="677" alt="Screenshot From 2026-10-09 19-30-11" src="https://github.com/user-attachments/assets/9c7f2dc7-bbc7-4a41-9ee5-db13eb5bc887" />
-) |
+### 1. Check — Scam Detection
+See how ShieldCircle analyzes a suspicious message and explains its risk score.
+
+![ShieldCircle Check](https://github.com/user-attachments/assets/baf9862c-3ce4-476d-9d46-37f101e731b2)
+
+### 2. Scam Drill — Learn to Spot Scams
+Practice identifying scam messages through interactive challenges.
+
+![ShieldCircle Scam Drill](https://github.com/user-attachments/assets/eaaa6ed9-049d-4782-aef2-0648cdb65e43)
+
+### 3. Family Radar — Family Scam Patterns
+View scam trends and identify repeated targeting across family members.
+
+![ShieldCircle Family Radar](https://github.com/user-attachments/assets/9c7f2dc7-bbc7-4a41-9ee5-db13eb5bc887)
 
 ## How it works
 

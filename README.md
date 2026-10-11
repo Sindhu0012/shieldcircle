@@ -4,7 +4,7 @@
 
 Track: **AI + Cybersecurity** · ForgeHacks Online 2026 · Solo project by Sindhu Sree
 
-- 🎥 Demo video: `https://youtu.be/j--4WP0TLPs`
+🎬 **[▶️ Watch the ShieldCircle Demo on YouTube](https://youtu.be/j--4WP0TLPs)**
 - 💻 Source code: https://github.com/Sindhu0012/shieldcircle
 
 ---
